@@ -2,7 +2,7 @@
 - 👀 I’m interested in making TASing tools.
 - 🌱 I’m currently learning LUA, Python, and JS.
 - 💞️ I’m looking to collaborate on Dolphin Python Core.
-- 📫 How to reach me: Discord @ xi#8717
+- 📫 How to reach me: Discord @ im_xi
 
 <!---
 ximk/ximk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
